@@ -1,4 +1,4 @@
-import { Environment, Lightformer } from "@react-three/drei";
+import { Environment } from "@react-three/drei";
 
 export function Studio() {
   return (
